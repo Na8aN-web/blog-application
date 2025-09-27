@@ -1,12 +1,30 @@
-# React + Vite
+## Blog App - React & Strapi
+A modern, full-stack blog application built with React frontend and Strapi headless CMS backend. This application allows users to create, read, update, and delete blog posts with a clean, responsive interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌟 Features
+Create Blog Posts: Rich text editor for creating engaging blog content
 
-Currently, two official plugins are available:
+View Blogs: Beautiful listing and detail views for all blog posts
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Edit Posts: Seamless editing experience for existing content
 
-## Expanding the ESLint configuration
+Delete Posts: Safe deletion with confirmation prompts
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Responsive Design: Optimized for desktop, tablet, and mobile devices
+
+Modern UI: Clean, user-friendly interface with intuitive navigation
+
+## 🛠️ Tech Stack
+Frontend
+React - UI framework
+
+React Context - State management
+
+React Router - Client-side routing
+
+Fetch - HTTP client for API calls
+
+Tailwind - Styling and responsive design
+
+Backend
+Strapi - Headless CMS
