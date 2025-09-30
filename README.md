@@ -28,3 +28,8 @@ Tailwind - Styling and responsive design
 
 Backend
 Strapi - Headless CMS
+
+## How to use
+First clone the repo into your local machine
+Next run npm install in both the root of the folder and in my strapi project folder
+Finally run `npm run dev` in the strapi project and the root of the project
